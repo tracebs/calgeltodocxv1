@@ -1,0 +1,28 @@
+{
+    "widget":{
+            "name": "CalGel to GoogleDrive",
+            "description": "Выгрузка в GoogleDrive",
+            "short_description": "в GoogleDrive",
+            "code": "calgeltodocxv1",
+            "secret_key": "894b09c58f5886a592e666a0a4d6ef7a0d4b6f9eb60ec3abfa4736aa1fa5d10a",
+            "version": "1.15.0",
+            "interface_version": 2,
+            "init_once": false,
+            "locale":[
+                    "ru"
+                    ],
+            "installation": true
+            },
+    "locations":[
+            "lcard-1",
+            "settings"
+            ],
+    "settings":{   
+        "tst":{
+            "name": "settings.tst",
+            "type": "text", 
+            "required": false
+        }
+    }
+
+}
